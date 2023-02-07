@@ -1,4 +1,4 @@
 Olá me chamo Nicolas ✨ 
 
-✅ Cursando Ciencia da computação 
-✅ Aprendendo a Programar 
+<p> ✅ Cursando Ciencia da computação </p>
+<p> ✅ Aprendendo a Programar </p>
